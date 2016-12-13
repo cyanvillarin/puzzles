@@ -4,7 +4,9 @@ Copyright: meowbowgrr@gmail.com
 @author: Meow Bow Grr
 This script can solve 'bridge crossing with torch' puzzles
 examples of the puzzle:
-1) 
+1) http://www.mytechinterviews.com/four-people-on-a-rickety-bridge
+2) https://www.youtube.com/watch?v=vF-OivyPcSs
+3) https://www.youtube.com/watch?v=7yDmGnA8Hw0
 """
 
 
