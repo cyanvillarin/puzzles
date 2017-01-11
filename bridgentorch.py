@@ -13,10 +13,12 @@ examples of the puzzle:
 sample change
 """
 
+#sample change 2
+
 def crossbridge(times, folks_at_a_time):
     """ 
     Yo, this function will solve the 'bridge crossing with torch' puzzle. 
-    Pass it the time taken by each person in a list and the number of folks who can cross at a time.
+    Pass it t	he time taken by each person in a list and the number of folks who can cross at a time.
     """
     import sys # because i need this
     
